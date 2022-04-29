@@ -1,5 +1,7 @@
 ### Hi there, I'm Meet Bhavsar 👋
-
+- 👀 I’m interested in Android Development with Kotlin and Java.
+- 🌱 I’m currently studying B.Tech.
+- 💞️ I love Coding, Gaming.
 <!--
 **meet2602/meet2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
