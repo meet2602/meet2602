@@ -13,8 +13,10 @@
 -->
 <a href="https://stackoverflow.com/users/13082664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meet-bhavsar" height="30" width="40" /></a>
 <!---<a href="https://instagram.com/meetb2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meetb2602" height="30" width="40" /></a>
-</p>
 -->
+
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
