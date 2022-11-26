@@ -1,5 +1,5 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">,  I'm Meet 😎
-#### A Curious Learner
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Meet Bhavsar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/meet2602/meet2602/) 
 <br>
