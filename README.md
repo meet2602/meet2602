@@ -27,14 +27,30 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p><hr>
 
-
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=meet2602&theme=discord&column=7&margin-w=15&margin-h=5)](https://github.com/meet2602/github-profile-trophy)
+<hr>
 
 ### :zap: Most used languages ❤️ 
 
-<img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=meet2602&layout=compact&hide=html&theme=highcontrast">
+<img  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=meet2602&layout=compact&hide=html&theme=highcontrast">
+<hr>
 
+### :zap: GitHub Stats ❤️ 
 
-<br><br><br><br><br><br><br><br><hr>
+[![Meet Bhavsar GitHub stats](https://github-readme-stats.vercel.app/api?username=meet2602&theme=dark&show_icons=true)](https://github.com/meet2602/github-readme-stats&)
+<br>
+<hr>
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/meet2602/HomeAutomationApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meet2602&repo=HomeAutomationApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Home Automation App" />
+</a>
+
+<a href="https://github.com/meet2602/MeetMyShow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meet2602&repo=MeetMyShow&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MeetMyShow App" />
+</a>
 
 ### :zap: Know More!! 
 
@@ -47,3 +63,4 @@
 <a href="https://www.hackerrank.com/meetbhavsar2602?hr_r=1">
   <img align="left" alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
+
