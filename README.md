@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p><hr>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=meet2602&theme=discord&column=7&margin-w=15&margin-h=5)](https://github.com/meet2602/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=meet2602&theme=discord&column=7&margin-w=15&margin-h=5)](https://github.com/meet2602/)
 <hr>
 
 ### :zap: Most used languages ❤️ 
@@ -38,7 +38,7 @@
 
 ### :zap: GitHub Stats ❤️ 
 
-[![Meet Bhavsar GitHub stats](https://github-readme-stats.vercel.app/api?username=meet2602&theme=dark&show_icons=true)](https://github.com/meet2602/github-readme-stats&)
+[![Meet Bhavsar GitHub stats](https://github-readme-stats.vercel.app/api?username=meet2602&theme=dark&show_icons=true)](https://github.com/meet2602/)
 <br>
 <hr>
 
