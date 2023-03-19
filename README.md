@@ -6,7 +6,7 @@
 
 - 🎓 I'm in the final year of **B.Tech Computer Engineering**.
 - 🔭 I’m currently working on my **Android Projects**
-- 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Kotlin](https://developer.android.com/kotlin), [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial)**
+- 🧠 I am currently learning **Mobile apps with [Kotlin](https://developer.android.com/kotlin), [Jetpack Compose](https://developer.android.com/jetpack/compose)**
 - 👯 I’m looking to collaborate on **Anything related to Android**
 - 💬 Ask me about **Android Dev, Arduino**
 <!-- - 📫 How to reach me: **@gmail.com** -->
@@ -19,7 +19,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="android" width="40" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
