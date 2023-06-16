@@ -4,7 +4,7 @@
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/meet2602/meet2602/) 
 <br>
 
-- 🎓 I'm in the final year of **B.Tech Computer Engineering**.
+- 🎓 I'm **Computer Engineer**.
 - 🔭 I’m currently working on my **Android Projects**
 - 🧠 I am currently learning **Mobile apps with [Kotlin](https://developer.android.com/kotlin), [Jetpack Compose](https://developer.android.com/jetpack/compose)**
 - 👯 I’m looking to collaborate on **Anything related to Android**
