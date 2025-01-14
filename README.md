@@ -54,15 +54,8 @@
 <br>
 <hr>
 
-### :zap: Know More!! 
-
-<a href="https://www.linkedin.com/in/meet-bhavsar-988b48221/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://stackoverflow.com/users/13082664">
-  <img align="left" alt="stackoverflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
-</a>
-<a href="https://www.hackerrank.com/meetbhavsar2602?hr_r=1">
-  <img align="left" alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
+## 🌐 Socials:
+[![DM Me For Freelancing Project](https://img.shields.io/badge/DM_Me_For_Freelancing_Project-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Meetb26)  [![Buy me a Coffee](https://img.shields.io/badge/buymeacoffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/codingmeet) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbxVOMaM79ouNfgwEmkBNAg) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeet26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-meet)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100092407025934) 
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodingMeet) 
 
